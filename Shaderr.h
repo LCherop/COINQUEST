@@ -1,5 +1,5 @@
 #pragma once
-/*
+
 #include "GL/glew.h"
 #include <unordered_map>
 #include <string>
@@ -30,4 +30,4 @@ private:
 	std::unordered_map<std::string, unsigned int> uniformCache;
 	void CheckCompileError(unsigned int object, std::string type);
 	unsigned int GetUniformCache(std::string name);
-}; */
+}; 

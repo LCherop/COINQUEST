@@ -1,12 +1,10 @@
 #pragma once
-/*
+
 #include "GL/glew.h"
 
 #include <unordered_map>
 #include <string>
 #include <iostream>
-
-#include "vendor/stbi_image.h"
 
 class Texture
 {
@@ -31,4 +29,4 @@ private:
 	unsigned int wrap_t;
 	unsigned int filter_min;
 	unsigned int filter_max;
-};*/
+};
